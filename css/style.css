@@ -460,15 +460,15 @@ header h1{
     border-color: #faf6fb #faf6fb #FFF;
     font-size: 19px;
     font-weight: 500;
-    color: #ffffff;
-    background: #c50201;
+    background: #ffffff;
+    color: #c50201;
 }
 
 .nav-tabs .nav-link.active {
-    background: #FFF;
+    color: #FFF;
     border-top-width: 3px;
     border-color: #c60202 #fff #FFF;
-    color: #c60202;
+    background: #c60202;
 }
 
 
